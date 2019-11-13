@@ -1,0 +1,14 @@
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\bin\Debug\netcoreapp2.1\chucknorrisJokesconsole.deps.json
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\bin\Debug\netcoreapp2.1\chucknorrisJokesconsole.runtimeconfig.json
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\bin\Debug\netcoreapp2.1\chucknorrisJokesconsole.runtimeconfig.dev.json
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\bin\Debug\netcoreapp2.1\chucknorrisJokesconsole.dll
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\bin\Debug\netcoreapp2.1\chucknorrisJokesconsole.pdb
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\obj\Debug\netcoreapp2.1\chucknorrisJokesconsole.csprojAssemblyReference.cache
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\obj\Debug\netcoreapp2.1\chucknorrisJokesconsole.csproj.CoreCompileInputs.cache
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\obj\Debug\netcoreapp2.1\chucknorrisJokesconsole.AssemblyInfoInputs.cache
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\obj\Debug\netcoreapp2.1\chucknorrisJokesconsole.AssemblyInfo.cs
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\obj\Debug\netcoreapp2.1\chucknorrisJokesconsole.dll
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\obj\Debug\netcoreapp2.1\chucknorrisJokesconsole.pdb
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\bin\Debug\netcoreapp2.1\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\bin\Debug\netcoreapp2.1\ChckNorrisJokesLibrary.pdb
+C:\Users\ongeziwe shiyeni\source\repos\chucknorrisJokesconsole\obj\Debug\netcoreapp2.1\chucknorrisJokesconsole.csproj.CopyComplete
